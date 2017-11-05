@@ -12,7 +12,7 @@ setup(
      author_email='ayon.mi1@iiitmk.ac.in',
      author = "Ayon Saha",  
      url= "https://github.com/erayon/greenGITx",  
-     scripts=['gdot'], 
+     scripts=['gdot.py'], 
      license= 'GPL',
  )
  
