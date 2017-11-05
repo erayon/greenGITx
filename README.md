@@ -21,5 +21,8 @@ Befor starting this you should do :
 ```
 pip install greenGITx
 
+gdot pathofprivate/pubilc_repository
+
+
 ```
 
