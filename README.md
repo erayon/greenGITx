@@ -23,7 +23,7 @@ Befor starting this you should do :
    
 # Installation and running
 ```
-1. clone the repo
+1. clone the repo : https://github.com/erayon/greenGITx.git
 2. run python gdot.py pathofprivate_repo
 3. goto your private repo 
 4. run:  python scheduleCron.py 
