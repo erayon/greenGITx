@@ -19,7 +19,11 @@ Befor starting this you should do :
    
 # Installation and running
 ```
-python gdot pathofprivate/pubilc_repository
+python gdot.py pathofprivate/pubilc_repository
+
+goto your private repo and run 
+
+python scheduleCron.py 
 
 ```
 
