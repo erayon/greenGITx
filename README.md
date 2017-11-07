@@ -18,8 +18,8 @@ Befor starting this you should do :
 7. git remote -v 
 8. git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 9. Verify new remote URL (by type git remote -v you see thoes lines below)
-   a. origin  https://github.com/USERNAME/REPOSITORY.git (fetch)
-   b. origin  https://github.com/USERNAME/REPOSITORY.git (push)
+   1. origin  https://github.com/USERNAME/REPOSITORY.git (fetch)
+   2. origin  https://github.com/USERNAME/REPOSITORY.git (push)
    
 # Installation and running
 ```
