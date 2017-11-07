@@ -1,5 +1,7 @@
 Befor starting this you should do :
 
+# create a private repo name as you like
+
 # In your terminal :
 1. ssh-keygen -t rsa -C "yourmail@gmail.com"
 2. cd .ssh/
@@ -9,6 +11,8 @@ Befor starting this you should do :
 
 # Go to :
 6. go to https://github.com/settings/keys paste the key in SSH
+
+# Clone your private repo in your sytem
 
 # Go to your private repo and open terminal type :
 7. git remote -v 
@@ -20,7 +24,7 @@ Befor starting this you should do :
 # Installation and running
 ```
 1. clone the repo
-2. run python gdot.py pathofprivate/pubilc_repository
+2. run python gdot.py pathofprivate_repo
 3. goto your private repo 
 4. run:  python scheduleCron.py 
 
