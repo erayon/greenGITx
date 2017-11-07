@@ -30,3 +30,6 @@ Befor starting this you should do :
 
 ```
 
+# Note
+This is beta version, feel free to write issuse what you have faced after doing this. In next version I will modify the code such a way no need to do SSH pairing.
+
