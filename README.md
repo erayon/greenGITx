@@ -19,10 +19,7 @@ Befor starting this you should do :
    
 # Installation and running
 ```
-pip install greenGITx
-
-gdot pathofprivate/pubilc_repository
-
+python gdot pathofprivate/pubilc_repository
 
 ```
 
